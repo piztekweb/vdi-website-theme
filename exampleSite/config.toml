@@ -1,10 +1,10 @@
 baseURL = "https://examplesite.com"
-disableLanguages = "En,Fr"
+disableLanguages = "Fr"
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "VDI.com"
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
@@ -28,39 +28,39 @@ languageName = "Es"
 weight = 3
 [[menu.main]]
 URL = "about"
-name = "about"
+name = "Acerca de Nosotros"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "services"
+name = "Servicios"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
-name = "portfolio"
+name = "Proyectos"
 weight = 3
-[[menu.main]]
-URL = "team"
-name = "team"
-weight = 4
-[[menu.main]]
-URL = "pricing"
-name = "pricing"
-weight = 5
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 6
+#[[menu.main]]
+#URL = "team"
+#name = "team"
+#weight = 4
+#[[menu.main]]
+#URL = "pricing"
+#name = "pricing"
+#weight = 5
+#[[menu.main]]
+#URL = "blog"
+#name = "blog"
+#weight = 6
 [[menu.main]]
 URL = "contact"
 name = "contact"
-weight = 7
-[[menu.static]]
-URL = "https://themefisher.com/"
-name = "themefisher"
-weight = 8
+weight = 4
+#[[menu.static]]
+#URL = "https://themefisher.com/"
+#name = "themefisher"
+#weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "PiztekWeb"
+description = "Ingenieria venezuela"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
