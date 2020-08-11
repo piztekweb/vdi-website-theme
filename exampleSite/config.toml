@@ -19,6 +19,13 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[Languages.es]
+contentDir = "content/spanish"
+copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
+home = "Inicio"
+languageCode = "es-co"
+languageName = "Es"
+weight = 3
 [[menu.main]]
 URL = "about"
 name = "about"
