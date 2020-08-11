@@ -6,7 +6,7 @@ portfolio:
     # portfolio item loop
     - name : Mudanza de DWDM y Fibra Interurbana
       image : images/portfolio/proyectos-maxplaza-digitel.PNG
-      image_webp : images/portfolio/portfolio-1.webp
+      image_webp :
       categories : ["design"]
       content : (Mudanza de ODFs, Cableado de Fibra Óptica y Cables UTP)
       link : ""
