@@ -3,6 +3,17 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Mudanza DWDM y Fibra Interurbana a Sala de Switch Room
+    image: ''
+    image_webp: ''
+    categories:
+    - Ingeniería
+    - Procura
+    - Construccion
+    - Mantenimiento
+    content: Mudanza de ODFs, Cableado de Fibra Óptica y Cables UTP en la SEDE MAXPLAZA
+      DIGITEL
+    link: ''
   - name: Tag Design
     image: "/images/about/about-business-man.jpg"
     image_webp: ''
