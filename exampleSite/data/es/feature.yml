@@ -1,24 +1,16 @@
 ---
 feature:
   enable: true
-  image: "/images/backgrounds/antenas.jpg"
-  title: We’re A Digital Design Agency.
+  image: "/images/about/bg-antena.JPG"
+  title: Nuestra Organizacion.
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
     itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
   feature_item:
-  - title: SEO Optimized
-    icon: ti-world
+  - title: Division de Ingenieria
+    icon: ti-ruler-pencil
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: Easy Customization
-    icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: SEO Optimized
-    icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: Easy Customization
-    icon: ti-announcement
+  - title: Division Servicios
+    icon: ti-paint-roller
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
