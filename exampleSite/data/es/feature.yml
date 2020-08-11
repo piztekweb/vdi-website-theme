@@ -1,7 +1,7 @@
 ---
 feature:
   enable: true
-  image: "/images/about/bg-antena.jpg"
+  image: "/images/about/about-antenas.PNG"
   title: Nuestra Organizacion
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
     itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.

@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "/images/backgrounds/banner-antena.JPG"
+  bg_image: "/images/backgrounds/banner-vdi.PNG"
   icon: ''
   title: Investigación & Desarrollo
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
