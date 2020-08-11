@@ -1,7 +1,7 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/antenas.jpg
+  image : images/about/bg-antena.jpg
   #image_webp : images/about/about-business-man.webp
   title : We’re A Digital Design Agency.
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."

@@ -28,15 +28,15 @@ languageName = "Es"
 weight = 3
 [[menu.main]]
 URL = "about"
-name = "Nosotros"
+name = "about"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "Servicios"
+name = "services"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
-name = "Proyectos"
+name = "portfolio"
 weight = 3
 #[[menu.main]]
 #URL = "team"
