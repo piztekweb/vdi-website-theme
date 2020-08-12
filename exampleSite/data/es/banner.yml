@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "static/images/portfolio/proyectos-maxplaza-digitel.PNG"
+  bg_image: "images/backgrounds/banner-antena.jpg"
   icon: ''
   title: Investigación & Desarrollo
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
