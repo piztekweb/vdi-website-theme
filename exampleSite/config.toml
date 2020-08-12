@@ -7,21 +7,21 @@ theme = "meghna-hugo"
 title = "VDI.com"
 [Languages.en]
 contentDir = "content/english"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
+copyright = "copyright &copy; 2020 [piztek](https://web.piztek.com) all right reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
+copyright = "copyright &copy; 2020 [piztek](https://web.piztek.com) tous droits réservés"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [Languages.es]
 contentDir = "content/spanish"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
+copyright = "copyright &copy; 2020 [piztek](https://web.piztek.com) all right reserved"
 home = "Inicio"
 languageCode = "es-co"
 languageName = "Es"
