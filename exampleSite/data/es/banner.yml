@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp : ""
+  bg_image_webp :
   #bg_image : "images/backgrounds/hero-area.jpg"
   bg_image: "images/backgrounds/banner-antena.jpg"
   icon: ''
