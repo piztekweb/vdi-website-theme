@@ -16,7 +16,9 @@ portfolio:
     image: images/portfolio/proyectos-2.PNG
     image_webp: 
     categories:
-    - development
+    - Ingeniera
+    - Procura
+    - Construccion
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Clock Product
