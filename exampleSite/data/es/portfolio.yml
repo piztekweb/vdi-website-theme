@@ -32,9 +32,7 @@ portfolio:
   - name: Bottol Label
     image: images/portfolio/proyectos-4.PNG
     image_webp: 
-    categories:
-    - photography
-    - development
+    categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Shopping Bag
