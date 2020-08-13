@@ -1,76 +1,74 @@
-#################################### portfolio ###############################
+---
 portfolio:
-  enable : true
-  title : Proyectos
-  portfolio_item :
-    # portfolio item loop
-    - name : Mudanza de DWDM y Fibra Interurbana
-      image : images/portfolio/proyectos-maxplaza-digitel.PNG
-      image_webp :
-      categories : ["design"]
-      content : (Mudanza de ODFs, Cableado de Fibra Óptica y Cables UTP)
-      link : ""
-
-    # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/proyectos-2.PNG
-      image_webp :
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
-
-    # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/proyectos-3.PNG
-      image_webp :
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-
-    # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/proyectos-4.PNG
-      image_webp :
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-
-    # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/proyectos-5.PNG
-      image_webp :
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/proyectos-6.PNG
-      image_webp :
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-
-    # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/proyectos-7.PNG
-      image_webp :
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-
-    # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/proyectos-8.PNG
-      image_webp :
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/proyectos-9.PNG
-      image_webp :
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+  enable: true
+  title: Proyectos
+  portfolio_item:
+  - name: Mudanza de DWDM y Fibra Interurbana
+    image: images/portfolio/proyectos-maxplaza-digitel.PNG
+    image_webp: 
+    categories:
+    - Ingenieria
+    - Procura
+    - Construccion
+    content: "(Mudanza de ODFs, Cableado de Fibra Óptica y Cables UTP)"
+    link: ''
+  - name: Sound system
+    image: images/portfolio/proyectos-2.PNG
+    image_webp: 
+    categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: ''
+  - name: Clock Product
+    image: images/portfolio/proyectos-3.PNG
+    image_webp: 
+    categories:
+    - design
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Bottol Label
+    image: images/portfolio/proyectos-4.PNG
+    image_webp: 
+    categories:
+    - photography
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Shopping Bag
+    image: images/portfolio/proyectos-5.PNG
+    image_webp: 
+    categories:
+    - design
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Tag Design
+    image: images/portfolio/proyectos-6.PNG
+    image_webp: 
+    categories:
+    - photography
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Business Card
+    image: images/portfolio/proyectos-7.PNG
+    image_webp: 
+    categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Stationary Design
+    image: images/portfolio/proyectos-8.PNG
+    image_webp: 
+    categories:
+    - design
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Tag Design
+    image: images/portfolio/proyectos-9.PNG
+    image_webp: 
+    categories:
+    - design
+    - photography
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
