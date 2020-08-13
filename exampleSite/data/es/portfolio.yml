@@ -23,10 +23,10 @@ portfolio:
     link: ''
   - name: Clock Product
     image: images/portfolio/proyectos-3.PNG
-    image_webp: 
+    image_webp: ''
     categories:
-    - design
-    - development
+    - Mantenimiento Preventivo
+    - Mantenimiento Correctivo
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Bottol Label
