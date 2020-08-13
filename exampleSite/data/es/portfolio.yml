@@ -38,15 +38,13 @@ portfolio:
   - name: Shopping Bag
     image: images/portfolio/proyectos-5.PNG
     image_webp: 
-    categories:
-    - design
+    categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Tag Design
     image: images/portfolio/proyectos-6.PNG
     image_webp: 
-    categories:
-    - photography
+    categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Business Card
