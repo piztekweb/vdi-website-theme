@@ -50,23 +50,18 @@ portfolio:
   - name: Business Card
     image: images/portfolio/proyectos-7.PNG
     image_webp: 
-    categories:
-    - development
+    categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Stationary Design
     image: images/portfolio/proyectos-8.PNG
     image_webp: 
-    categories:
-    - design
-    - development
+    categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Tag Design
     image: images/portfolio/proyectos-9.PNG
     image_webp: 
-    categories:
-    - design
-    - photography
+    categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
