@@ -1,5 +1,5 @@
 baseURL = "https://examplesite.com"
-disableLanguages = ["Fr","En"]
+disableLanguages = ["Fr", "En"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -12,13 +12,6 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "copyright &copy; 2020 [piztek](https://web.piztek.com) tous droits réservés"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
 [Languages.es]
 contentDir = "content/spanish"
 copyright = "copyright &copy; 2020 [piztek](https://web.piztek.com) all right reserved"
@@ -26,6 +19,13 @@ home = "Inicio"
 languageCode = "es-co"
 languageName = "Es"
 weight = 3
+[Languages.fr]
+contentDir = "content/french"
+copyright = "copyright &copy; 2020 [piztek](https://web.piztek.com) tous droits réservés"
+home = "Accueil"
+languageCode = "fr-fr"
+languageName = "Fr"
+weight = 2
 [[menu.main]]
 URL = "about"
 name = "about"
@@ -38,31 +38,15 @@ weight = 2
 URL = "portfolio"
 name = "portfolio"
 weight = 3
-#[[menu.main]]
-#URL = "team"
-#name = "team"
-#weight = 4
-#[[menu.main]]
-#URL = "pricing"
-#name = "pricing"
-#weight = 5
-#[[menu.main]]
-#URL = "blog"
-#name = "blog"
-#weight = 6
 [[menu.main]]
 URL = "contact"
 name = "contact"
 weight = 4
-#[[menu.static]]
-#URL = "https://themefisher.com/"
-#name = "themefisher"
-#weight = 8
 [params]
 author = "PiztekWeb"
 description = "Ingenieria venezuela"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "images/logo1.png"
 post_share = true
 [params.map]
 enable = false
